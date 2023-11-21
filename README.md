@@ -4,8 +4,11 @@
 MatildaCarPricePredictor-BeginnersGuide combines the world of Matilda, a beloved character from Roald Dahl's imagination, with the cutting-edge technology of Artificial Neural Networks (ANNs). This project serves as an introduction to neural networks for beginners by reflecting on Matilda's unique ability to recognize patterns.
 
 **Problem Statement**
-Matilda's father, Mr. Harry Wormwood, is an infamous car dealer. Ever since she was a young child, she has overheard various conversations on car deals, and thus, she is well-versed in the field. As a child, she once surprised her parents with a quick calculation of the profit from one of her father's cars. As Matilda matures into a woman with a keen interest in the family business, she encounters the multifaceted nature of the car industry. Despite her innate ability to automatically discern patterns, a question arises: what if we could replicate this unique skill in a computer and train it to recognize patterns within the data from Matilda's car industry c![MatildaProfitScene](https://github.com/haniya-ali/MatildaCarPricePredictor-BeginnersGuide/assets/79181650/1eb8a02d-e168-4bf7-afd7-8bb468ec0c9e)
-lients?
+Matilda's father, Mr. Harry Wormwood, is an infamous car dealer. Ever since she was a young child, she has overheard various conversations on car deals, and thus, she is well-versed in the field. As a child, she once surprised her parents with a quick calculation of the profit from one of her father's cars. 
+
+c![MatildaProfitScene](https://github.com/haniya-ali/MatildaCarPricePredictor-BeginnersGuide/assets/79181650/1eb8a02d-e168-4bf7-afd7-8bb468ec0c9e)
+
+As Matilda matures into a woman with a keen interest in the family business, she encounters the multifaceted nature of the car industry. Despite her innate ability to automatically discern patterns, a question arises: what if we could replicate this unique skill in a computer and train it to recognize patterns within the data from Matilda's car industry clients?
 
 **Objective**
 Since Matilda's mind possesses all the cognitive components necessary for carrying out complex tasks, such as recognizing patterns, we aim to emulate and harness this extraordinary ability within the realm of artificial neural networks. This project introduces the human neuron, delving into its anatomy and functionality, and discusses how these biological principles can be translated into computational frameworks. The objective is to provide a clear understanding of the foundational concepts of neural networks and guide beginners through the process of building and comprehending artificial neural networks.
