@@ -1,6 +1,6 @@
 # MatildaCarPricePredictor-BeginnersGuide
 
-**Description**
+**DESCRIPTION**
 
 Step into the magical world of MatildaCarPricePredictor! Imagine Matilda, the clever girl from Roald Dahl's stories. She's all grown up now and navigating the exciting world of cars with her dad, Mr. Harry Wormwood, a famous car dealer.
 
@@ -8,7 +8,7 @@ Inspired by Matilda's amazing brainpower, this project invites beginners to expl
 
 Whether you're a fan of Matilda's adventures or just curious about AI, MatildaCarPricePredictor promises a fun and easy journey into the world of neural networks. Let's make predictions and have some data magic! 🚗✨
 
-**Problem Statement**
+**PROBLEM STATEMENT**
 
 Matilda's father, Mr. Harry Wormwood, is an infamous car dealer. Ever since she was a young child, she has overheard various conversations on car deals, and thus, she is well-versed in the field. As a child, she once surprised her parents with a quick calculation of the profit from one of her father's cars. 
 
@@ -16,11 +16,11 @@ Matilda's father, Mr. Harry Wormwood, is an infamous car dealer. Ever since she 
 
 As Matilda matures into a woman with a keen interest in the family business, she encounters the multifaceted nature of the car industry. Despite her innate ability to automatically discern patterns, a question arises: what if we could replicate this unique skill in a computer and train it to recognize patterns within the data from Matilda's car industry clients?
 
-**Objective**
+**OBJECTIVE**
 
 As Matilda navigates the car industry and uses the attributes of her customers to increase her sales, we too can harness Matilda's exceptional cognitive abilities as inspiration to delve into the fundamentals of neural networks. To this end, **the objective of this project will be to use customer attributes to develop a model to predict the total dollar amount that customers are willing to pay**. By translating Matilda's ability to identify patterns into a computational framework, the project will provide an introduction to Artificial Neural Networks (ANNs) for beginners in the field. 
 
-**Project Components**
+**PROJECT COMPONENTS**
 
 The project is divided into the following parts:
 
@@ -32,7 +32,7 @@ The project is divided into the following parts:
 5. Evaluation of the Model: Assessing the model's performance, analyzing results, and interpreting the predictive capabilities of the neural network.
 6. Conclusion and Resources for Further Studying: Summarizing key findings, and lessons learned, and providing additional resources for beginners to continue exploring the fascinating world of neural networks.
 
-**Dataset** 
+**DATASET** 
 The dataset used in this project was sourced from the [Course Name] on Udemy, provided by [Instructor Name]. The course can be found at [Udemy Course Link].
 The goal is that as a car salesman, we would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes: 
 - Customer Name
@@ -47,11 +47,11 @@ The goal is that as a car salesman, we would like to develop a model to predict 
 In summary given the above attributes, the model should predict: 
 - Car Purchase Amount
 
-**Conclusion** 
+**CONCLUSION** 
 
 The MatildaCarPricePredictor-BeginnersGuide project brings together the magic of storytelling and the power of artificial neural networks, inspired by the whimsical character Matilda from Roald Dahl's world. As Matilda's ability to recognize patterns serves as a guiding light, we've delved into the intricate realm of neural networks, providing beginners with an immersive introduction. Through the lens of Matilda's adventures in the car industry, we've explored the creation of a model to predict car sale prices, bridging the gap between fiction and technology.
 
-**Further Resources** 
+**FURTHER RESOURCES** 
 
 Since this was a beginner's guide to neural networks, some areas of further studying can include:
 1. **Advanced Neural Network Architectures:** While this project introduced feedforward neural networks, another interesting area to explore is advanced neural network architectures. Dive into Convolutional Neural Networks (CNNs) for image recognition, Recurrent Neural Networks (RNNs) for sequence data, and Transformers for natural language processing to broaden your understanding of specialized network structures.
