@@ -33,8 +33,10 @@ The project is divided into the following parts:
 6. Conclusion and Resources for Further Studying: Summarizing key findings, and lessons learned, and providing additional resources for beginners to continue exploring the fascinating world of neural networks.
 
 **DATASET** 
-The dataset used in this project was sourced from the [Course Name] on Udemy, provided by [Instructor Name]. The course can be found at [Udemy Course Link].
-The goal is that as a car salesman, we would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes: 
+
+Note: The dataset used in this project was sourced from the [Course Name] on Udemy, provided by [Instructor Name]. The course can be found at [Udemy Course Link].
+
+The dataset contains the following attributes and the goal is that as a car salesman, we would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes: 
 - Customer Name
 - Customer e-mail
 - Country
