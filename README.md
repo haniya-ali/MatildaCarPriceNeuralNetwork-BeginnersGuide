@@ -12,7 +12,7 @@ Whether you're a fan of Matilda's adventures or just curious about AI, MatildaCa
 
 Matilda's father, Mr. Harry Wormwood, is an infamous car dealer. Ever since she was a young child, she has overheard various conversations on car deals, and thus, she is well-versed in the field. As a child, she once surprised her parents with a quick calculation of the profit from one of her father's cars. 
 
-![MatildaProfitScene](https://github.com/haniya-ali/MatildaCarPricePredictor-BeginnersGuide/assets/79181650/1eb8a02d-e168-4bf7-afd7-8bb468ec0c9e)
+![MatildaProfitScene](https://github.com/haniya-ali/MatildaCarPricePredictor-BeginnersGuide/assets/79181650/4ce7cf14-6880-4285-a204-881332772754)
 
 As Matilda matures into a woman with a keen interest in the family business, she encounters the multifaceted nature of the car industry. Despite her innate ability to automatically discern patterns, a question arises: what if we could replicate this unique skill in a computer and train it to recognize patterns within the data from Matilda's car industry clients?
 
