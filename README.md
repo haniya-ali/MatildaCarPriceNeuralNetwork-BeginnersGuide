@@ -34,7 +34,7 @@ The project is divided into the following parts:
 
 **DATASET** 
 
-Note: The dataset used in this project was sourced from the [Course Name] on Udemy, provided by [Instructor Name]. The course can be found at [Udemy Course Link].
+Note: The dataset used in this project was sourced from Udemy.
 
 The dataset contains the following attributes and the goal is that as a car salesman, we would like to develop a model to predict the total dollar amount that customers are willing to pay given the following attributes: 
 - Customer Name
